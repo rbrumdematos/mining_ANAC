@@ -1,0 +1,20 @@
+{
+  "name": "mineracao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "esm": "^3.2.25",
+    "fast-csv": "^4.3.6",
+    "ml-naivebayes": "^4.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
